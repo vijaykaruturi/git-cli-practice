@@ -8,3 +8,5 @@ git diff README.md
 git show abc123
 5. Assuming that you are currently within a Git repository, write the command (or commands) that will display the ID and commit message for the 3 most recent commits.
 git log -n 3
+6. Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.
+git status
